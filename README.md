@@ -67,7 +67,7 @@ The result should look like this example for an addition
 Implement a method that returns a random positive integer.
 Do not forget to add it to the menu.
 
-The math library from java provides such a random number function. 
+The math library from Java provides such a random number function. 
 
 ~~~java
 int randomNumber = Math.abs(rand.nextInt());
