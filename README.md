@@ -70,7 +70,7 @@ Do not forget to add it to the menu.
 The math library from Java provides such a random number function. 
 
 ~~~java
-int randomNumber = Math.abs(rand.nextInt());
+int randomNumber = Math.abs(new Random().nextInt());
 ~~~
 
 Can you guess what `Math.abs()` does? 
