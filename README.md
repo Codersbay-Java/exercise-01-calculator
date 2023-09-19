@@ -1,5 +1,4 @@
 # Exercise 01 Calculator 
-### Deadline 17.03.2022
 
 Your task is to program a little command-line calculator with user input.
 The calculator can perform integer and floating-point operations.
